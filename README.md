@@ -1,2 +1,2 @@
 # Star-Battle-Game
-A star fox-like game
+A 3D spaceship battle game
